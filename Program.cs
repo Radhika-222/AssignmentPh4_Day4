@@ -8,8 +8,6 @@ products.Add(4, new Product { PName = "Mobile", PPrice = 25000.89, PBrand = "Viv
 products.Add(5, new Product { PName = "Washing Machine", PPrice = 30000.33, PBrand = "LG", ManufacturingDate = new DateTime(day: 11, month: 01, year: 2024), ExpiryDate = new DateTime(day: 15, month: 04, year: 2028) });
 
 
->>>>>>> a50b07fb88b2c3ee2421c3da8b42903eb19f404e
-
 DisplayProductDetails(products);
 static void DisplayProductDetails(SortedList<int,Product> products)
 {
