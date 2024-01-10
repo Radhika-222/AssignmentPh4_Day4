@@ -1,0 +1,15 @@
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\bin\Debug\net6.0\Assignment_Day4.exe
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\bin\Debug\net6.0\Assignment_Day4.deps.json
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\bin\Debug\net6.0\Assignment_Day4.runtimeconfig.json
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\bin\Debug\net6.0\Assignment_Day4.dll
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\bin\Debug\net6.0\Assignment_Day4.pdb
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.AssemblyInfoInputs.cache
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.AssemblyInfo.cs
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.csproj.CoreCompileInputs.cache
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.sourcelink.json
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.dll
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\refint\Assignment_Day4.dll
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.pdb
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\Assignment_Day4.genruntimeconfig.cache
+E:\Mphasis Phase4\Day4\Assignment\Assignment_Day4\Assignment_Day4\obj\Debug\net6.0\ref\Assignment_Day4.dll
