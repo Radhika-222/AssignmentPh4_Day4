@@ -9,7 +9,6 @@ products.Add(5, new Product { PName = "Washing Machine", PPrice = 30000.33, PBra
 products.Add(6, new Product { PName = "EarBuds", PPrice = 3000.33, PBrand = "One+", ManufacturingDate = new DateTime(day: 10, month: 03, year: 2024), ExpiryDate = new DateTime(day: 11, month: 04, year: 2027) });
 
 DisplayProductDetails(products);
-Console.ReadKey();
 static void DisplayProductDetails(SortedList<int,Product> products)
 {
     Console.WriteLine("PName \t     PPrice \t     PBrand \t      ManufatcuringDate \t     ExpiryDate ");
