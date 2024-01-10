@@ -6,10 +6,7 @@ products.Add(2, new Product { PName = "Laptop", PPrice = 60000.00, PBrand = "HP"
 products.Add(3, new Product { PName = "Fridge", PPrice = 35000.99, PBrand = "Samsung", ManufacturingDate = new DateTime(day: 08, month: 03, year: 2019), ExpiryDate = new DateTime(day: 09, month: 02, year: 2026) });
 products.Add(4, new Product { PName = "Mobile", PPrice = 25000.89, PBrand = "Vivo", ManufacturingDate = new DateTime(day: 28, month: 11, year: 2020), ExpiryDate = new DateTime(day: 30, month: 12, year: 2023) });
 products.Add(5, new Product { PName = "Washing Machine", PPrice = 30000.33, PBrand = "LG", ManufacturingDate = new DateTime(day: 11, month: 01, year: 2024), ExpiryDate = new DateTime(day: 15, month: 04, year: 2028) });
-products.Add(6, new Product { PName = "EarBuds", PPrice = 3000.33, PBrand = "One+", ManufacturingDate = new DateTime(day: 10, month: 03, year: 2024), ExpiryDate = new DateTime(day: 11, month: 04, year: 2027) });
-<<<<<<< HEAD
-products.Add(7, new Product { PName = "Digital watch", PPrice = 2000.33, PBrand = "boAt", ManufacturingDate = new DateTime(day: 17, month: 02, year: 2024), ExpiryDate = new DateTime(day: 18, month: 05, year: 2027) });
-=======
+
 
 >>>>>>> a50b07fb88b2c3ee2421c3da8b42903eb19f404e
 
